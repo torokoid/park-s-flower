@@ -102,6 +102,8 @@ body::before {
 <a href="20240511_029.JPG" data-lightbox="abc"><img src="20240511_029.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_030.JPG" data-lightbox="abc"><img src="20240511_030.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_031.JPG" data-lightbox="abc"><img src="20240511_031.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240511_065.JPG" data-lightbox="abc"><img src="20240511_065.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240511_066.JPG" data-lightbox="abc"><img src="20240511_066.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240511_032.JPG" data-lightbox="abc"><img src="20240511_032.JPG" alt="サンプル画像" width="900" /></a>
 	
 <br><br><br><br><br><br><br><br><br>
